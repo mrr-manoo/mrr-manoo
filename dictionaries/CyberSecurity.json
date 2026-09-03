@@ -1,0 +1,23 @@
+{
+  "name": "CyberSecurity",
+  "description": "A basic dictionary of common cybersecurity terms and short definitions to use in the repository.",
+  "terms": {
+    "phishing": "A social engineering attack where attackers trick users into revealing sensitive information or installing malware by posing as a trustworthy entity.",
+    "malware": "Malicious software designed to damage, exploit, or otherwise compromise computers and networks (includes viruses, worms, trojans).",
+    "ransomware": "Malware that encrypts a victim's files or systems and demands payment for the decryption key.",
+    "vulnerability": "A weakness in software, hardware, or procedures that can be exploited to compromise security.",
+    "CVE": "Common Vulnerabilities and Exposures — a publicly disclosed catalog of known security vulnerabilities.",
+    "zero-day": "A vulnerability that is unknown to the vendor and has no available patch; attackers may exploit it before a fix exists.",
+    "XSS": "Cross-Site Scripting — a vulnerability that allows attackers to inject malicious scripts into webpages viewed by other users.",
+    "SQL_injection": "An attack that injects malicious SQL statements into an application's input to manipulate the database.",
+    "SOC": "Security Operations Center — a team or facility that monitors and responds to security incidents.",
+    "SIEM": "Security Information and Event Management — a class of tools that aggregate and analyze security event data for detection and response."
+  },
+  "sources": [
+    "https://owasp.org/",
+    "https://cve.mitre.org/",
+    "https://www.us-cert.gov/"
+  ],
+  "created_by": "0xcwhere",
+  "created_at": "2026-09-03"
+}
